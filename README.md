@@ -1,10 +1,10 @@
 # Redbus
 
-We have Cloned a bus ticketing and hiring platform called redbus.
+I have Cloned a bus ticketing and hiring platform called redbus.
 redBus is an Indian online bus ticketing platform providing ticket booking facility through its website, iOS and Android mobile apps. It connects bus travellers with a network of over 2500 bus operators, across India, countries in South East Asia and Latin America.
 It connects bus travellers with a network of over 2500 bus operators, across India, countries in South East Asia and Latin America.
 
-In this project , we have tried to make a perfect clone of redbus.in.
+In this project , I have tried to make a perfect clone of redbus.in.
 
 ### Live Link :  https://redbus.netlify.app/
 
@@ -108,23 +108,5 @@ In this project , we have tried to make a perfect clone of redbus.in.
  
 ### End-notes
  
-  We have tried our best to give mostly all the functionality available on the actual website.
+  I have tried our best to give mostly all the functionality available on the actual website.
 
-  
-  ### Contributors:
-
-  * Nitansh Rastogi
-
-    * Github : [nitansh11](https://github.com/nitansh11)
-
-  * Uditanshu Kumar
-
-    * Github : [udit22022000](https://github.com/udit22022000)
-
-  * Rohan Kumar Banarwal
-
-    * Github : [kumarrohan2804](https://github.com/kumarrohan2804)
-
- * Archana Singh
-
-    * Github : [archana-sing](https://github.com/archana-sing)
